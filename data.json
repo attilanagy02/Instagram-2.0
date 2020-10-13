@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "pic":"rock1.jpg",
+            "hashtags":"#nofilter",
+            "like":120
+        },
+        {            
+            "pic":"rock2.jpg",
+            "hashtags":"#yolo",
+            "like":200
+        },
+        {            
+            "pic":"rock3.jpg",
+            "hashtags":"#sanandreas",
+            "like":560
+        }
+
+    ]
+}
